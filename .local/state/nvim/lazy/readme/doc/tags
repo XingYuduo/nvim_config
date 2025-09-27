@@ -1,0 +1,41 @@
+!_TAG_FILE_ENCODING	utf-8	//
+monokai.nvim-customization	monokai.nvim.md	/## Customization
+monokai.nvim-extras	monokai.nvim.md	/## Extras
+monokai.nvim-installation	monokai.nvim.md	/## Installation
+monokai.nvim-neovim-monokai	monokai.nvim.md	/# Neovim Monokai
+monokai.nvim-prerequisites	monokai.nvim.md	/## Prerequisites
+monokai.nvim-supported-monokai-flavours	monokai.nvim.md	/## Supported Monokai Flavours
+monokai.nvim-usage	monokai.nvim.md	/## Usage
+nvim-web-devicons-additional-icons	nvim-web-devicons.md	/## Additional Icons
+nvim-web-devicons-case-sensitivity	nvim-web-devicons.md	/### Case Sensitivity
+nvim-web-devicons-contributing	nvim-web-devicons.md	/## Contributing
+nvim-web-devicons-get-all-icons	nvim-web-devicons.md	/### Get all icons
+nvim-web-devicons-get-icon	nvim-web-devicons.md	/### Get Icon
+nvim-web-devicons-get-icon-and-color-code	nvim-web-devicons.md	/### Get icon and color code
+nvim-web-devicons-getting-and-setting-icons-by-filetype	nvim-web-devicons.md	/### Getting and setting icons by filetype
+nvim-web-devicons-installation	nvim-web-devicons.md	/## Installation
+nvim-web-devicons-known-issues	nvim-web-devicons.md	/## Known Issues
+nvim-web-devicons-my-setup-overrides-are-not-applied	nvim-web-devicons.md	/### My `setup` Overrides Are Not Applied
+nvim-web-devicons-nvim-web-devicons	nvim-web-devicons.md	/# Nvim-web-devicons
+nvim-web-devicons-requirements	nvim-web-devicons.md	/## Requirements
+nvim-web-devicons-set-an-icon	nvim-web-devicons.md	/### Set an icon
+nvim-web-devicons-setup	nvim-web-devicons.md	/### Setup
+nvim-web-devicons-usage	nvim-web-devicons.md	/## Usage
+nvim-web-devicons-variants	nvim-web-devicons.md	/### Variants
+nvim-web-devicons-viewing	nvim-web-devicons.md	/### Viewing
+nvim-web-devicons-windows-and-wsl-not-rendering-icons-properly-on-some-terminals	nvim-web-devicons.md	/### Windows and WSL not rendering icons properly on some terminals
+telescope-fzf-native.nvim-benchmark	telescope-fzf-native.nvim.md	/## Benchmark
+telescope-fzf-native.nvim-c-interface	telescope-fzf-native.nvim.md	/### C Interface
+telescope-fzf-native.nvim-cmake-windows-linux-macos	telescope-fzf-native.nvim.md	/### CMake (Windows, Linux, MacOS)
+telescope-fzf-native.nvim-credit	telescope-fzf-native.nvim.md	/## Credit
+telescope-fzf-native.nvim-developer-interface	telescope-fzf-native.nvim.md	/## Developer Interface
+telescope-fzf-native.nvim-disclaimer	telescope-fzf-native.nvim.md	/## Disclaimer
+telescope-fzf-native.nvim-installation	telescope-fzf-native.nvim.md	/## Installation
+telescope-fzf-native.nvim-lazy-nvim	telescope-fzf-native.nvim.md	/#### lazy.nvim
+telescope-fzf-native.nvim-lua-interface	telescope-fzf-native.nvim.md	/### Lua Interface
+telescope-fzf-native.nvim-make-linux-macos-windows-with-mingw	telescope-fzf-native.nvim.md	/### Make (Linux, MacOS, Windows with MinGW)
+telescope-fzf-native.nvim-packer-nvim	telescope-fzf-native.nvim.md	/#### packer.nvim
+telescope-fzf-native.nvim-telescope-fzf-native-nvim	telescope-fzf-native.nvim.md	/# telescope-fzf-native.nvim
+telescope-fzf-native.nvim-telescope-setup-and-configuration	telescope-fzf-native.nvim.md	/## Telescope Setup and Configuration
+telescope-fzf-native.nvim-todo	telescope-fzf-native.nvim.md	/### TODO
+telescope-fzf-native.nvim-vim-plug	telescope-fzf-native.nvim.md	/#### vim-plug
